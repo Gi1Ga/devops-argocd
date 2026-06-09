@@ -9,4 +9,4 @@ source:
     valueFile: values.yaml
 destination:
   namespace: qua
-  name: docker-desktop
+  name: in-cluster
