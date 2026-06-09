@@ -2,7 +2,7 @@ source:
   # GIT https url of your helm files
   repoURL: 'https://github.com/Gi1Ga/devops-helm.git'
   # Git branch name of your helm package
-  targetRevision: master
+  targetRevision: main
   path: qua/myapp
   helm:
     releaseName: myapp
